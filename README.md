@@ -8,10 +8,20 @@ In a Stroop task, participants are presented with a list of words, with each wor
 The task has two conditions: 
 
 
-1. **Congruent words condition** - words being displayed are color words whose names match the colors in which they are printed: for example <span style="color:red"><em>RED</em></span>, <span style="color:blue"><em>BLUE</em></span>.
+1. **Congruent words condition** - words being displayed are color words whose names match the colors in which they are printed: for example, 
+
+```diff
++ GREEN
+- RED
+```
 
 
-2. **Incongruent words condition** - words being displayed are color words whose names do not match the colors in which they are printed: for example <span style="color:orange"><em>PURPLE</em></span>, <span style="color:purple"><em>ORANGE</em></span>. 
+2. **Incongruent words condition** - words being displayed are color words whose names do not match the colors in which they are printed: for example,
+
+```diff
++ RED
+- GREEN
+```
 
 
 In each case, we measure the time it takes to name the ink colors in equally-sized lists. Each participant will go through and record a time from each condition.
