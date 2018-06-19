@@ -1,6 +1,6 @@
-## Stroop Effect: Statistical Analysis of a Perceptual Phenomenon
+# Stroop Effect: Statistical Analysis of a Perceptual Phenomenon
 
-by Maneesh Divana
+***by Maneesh Divana***
 
 ----------
 
