@@ -1,6 +1,6 @@
 # Stroop Effect: Statistical Analysis of a Perceptual Phenomenon
 
-***by Maneesh Divana for Udacitys Machine Learning Foundation Nanodegree***
+***by Maneesh Divana for Udacity's Machine Learning Foundation Nanodegree***
 
 -----
 
