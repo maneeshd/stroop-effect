@@ -1,8 +1,6 @@
-# Stroop Effect: Statistical Analysis of a Perceptual Phenomenon
+# Udacity: Machine Learning Foundation Nanodegree
 
-***by Maneesh Divana***
-
-----------
+## Stroop Effect: Statistical Analysis of a Perceptual Phenomenon
 
 In a Stroop task, participants are presented with a list of words, with each word displayed in a color of ink. The participant's task is to say out loud the color of the ink in which the word is printed. 
 The task has two conditions: 
@@ -40,3 +38,5 @@ In each case, we measure the time it takes to name the ink colors in equally-siz
 #### [Stroop Effect - Wikipedia](https://en.wikipedia.org/wiki/Stroop_effect)
 
 ----------
+
+***- Maneesh Divana***
