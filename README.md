@@ -31,7 +31,7 @@ In each case, we measure the time it takes to name the ink colors in equally-siz
 ### Run
 
 ```
-jupyter notebook investigation_of_tmdb_dataset.ipynb
+jupyter notebook stroop_effect_analysis.ipynb
 ```
 
 ### Project Report
