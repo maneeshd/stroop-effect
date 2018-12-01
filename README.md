@@ -28,6 +28,17 @@ In each case, we measure the time it takes to name the ink colors in equally-siz
 
 
 ----------
+### Run
+
+```
+jupyter notebook investigation_of_tmdb_dataset.ipynb
+```
+
+### Project Report
+
+Report can be viewed at https://maneeshd.github.io/stroop-effect/.
+
+----------
 
 #### [Analysis Report](stroop_effect_analysis.html)
 
