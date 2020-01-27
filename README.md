@@ -2,6 +2,11 @@
 
 ***by Maneesh Divana for Udacity's Machine Learning Foundation Nanodegree***
 
+
+### Project Report
+
+Report can be viewed at https://maneeshd.github.io/stroop-effect/.
+
 -----
 
 In a Stroop task, participants are presented with a list of words, with each word displayed in a color of ink. The participant's task is to say out loud the color of the ink in which the word is printed. 
@@ -33,10 +38,6 @@ In each case, we measure the time it takes to name the ink colors in equally-siz
 ```
 jupyter notebook stroop_effect_analysis.ipynb
 ```
-
-### Project Report
-
-Report can be viewed at https://maneeshd.github.io/stroop-effect/.
 
 ----------
 
